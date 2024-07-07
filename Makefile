@@ -4,7 +4,7 @@ EX=introspection
 
 # Set up the appropriate flags
 CFLAGS = -Wall -O3 
-LDFLAGS = -lglut -lGLU -lGL -lm -lSDL -lSDL_mixer
+LDFLAGS = -lglut -lGLU -lGL -lm -lSDL2 -lSDL2_mixer
 RM=rm
 CLEAN = rm -f $(EX) *.o *.a
 
