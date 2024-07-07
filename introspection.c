@@ -20,8 +20,8 @@
 
 // #include "SDL/SDL.h"
 // #include "SDL/SDL_mixer.h"
-#include "/Library/Frameworks/SDL2.framework/Versions/A/Headers/SDL.h"
-#include "/Library/Frameworks/SDL2_mixer.framework/Versions/A/Headers/SDL_mixer.h"
+#include "SDL2/SDL.h"
+#include "SDL2/SDL_mixer.h"
 #include "CSCIx229.h"
 
 // Misc. variable
