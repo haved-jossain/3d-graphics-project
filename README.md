@@ -29,5 +29,5 @@ Keyboard controls:
 * z/x increase/decrease ambient light
 * c/v decrease/increase diffuse light
 * p pause/unpause animation
-* [ ] lower/rise light
+* [  ] lower/rise light
 * +/- change field of view
