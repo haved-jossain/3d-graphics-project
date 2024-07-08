@@ -1,16 +1,10 @@
 Computer graphics project using OpenGL 2.0
 
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
 Final project: CSCI 5229
 Created by: Javed Hossain
 
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
 To compile: make introspection
 To run: ./introspection
-
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Credits:
 
@@ -23,8 +17,6 @@ Credits:
 3. Some of the functions:
    Written by Dr. Willem Schreuder
    Taken from examples shown in class
-
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Keyboard controls:
 
