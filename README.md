@@ -3,8 +3,11 @@ Computer graphics project using OpenGL 2.0
 Final project: CSCI 5229
 Created by: Javed Hossain
 
-To compile: make introspection
-To run: ./introspection
+To compile: 
+make introspection
+
+To run: 
+./introspection
 
 Keyboard controls:
 
