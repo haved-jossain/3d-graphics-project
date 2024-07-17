@@ -27,8 +27,3 @@ Keyboard controls:
 * p pause/unpause animation
 * [  ] lower/rise light
 * +/- change field of view
-
-Credits:
-
-1. 3D model of The Thinker - downloaded from http://www.123dapp.com/123C-3D-Model/The-Thinker-Sculpture/596136
-2. Background music - Sayuri by Nathan Allen Pinard (http://www.youtube.com/watch?v=RlZ4fba4rzs)
