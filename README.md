@@ -4,10 +4,10 @@ Screenshots:
 ![1](https://github.com/user-attachments/assets/818e8589-8a78-4bab-bb8a-8b25a1813396)
 ![2](https://github.com/user-attachments/assets/a6185c3d-33d9-4973-95fa-95af8cb3f1ad)
 
-To compile: 
+Compile: 
 make introspection
 
-To run: 
+Run: 
 ./introspection
 
 Keyboard controls:
