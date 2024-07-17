@@ -1,7 +1,4 @@
-Computer graphics project using OpenGL 2.0
-
-Final project: CSCI 5229
-Created by: Javed Hossain
+3D graphics project created with OpenGL 2.0
 
 Screenshots:
 ![1](https://github.com/user-attachments/assets/818e8589-8a78-4bab-bb8a-8b25a1813396)
